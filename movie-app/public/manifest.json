@@ -1,0 +1,13 @@
+{
+  "name": "CineVault",
+  "short_name": "CineVault",
+  "description": "Discover trending movies and TV shows.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090909",
+  "theme_color": "#090909",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
